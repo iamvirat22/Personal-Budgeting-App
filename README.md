@@ -7,24 +7,16 @@ wisely to meet your personal and financial goals in life. It should not be a mat
 exercise that we think we have to endure; rather, it is the result of self-assessment of our
 relationship with money and a necessary road map to steer us toward a higher standard
 and quality of living.
-# Abstract
-Budgeting is the most basic and effective tool for managing our monthly income. But
-most people avoid doing it because they think keeping a record of budget or expense is
-a hectic task. Recording monthly expenses on paper are very difficult as modification,
-removal, and searching are not easy on paper. Similarly using any which run on our
-computers like MS excel or any other tool is also clumsy. Because we will have to note all
-expenses on paper then later record them all on the tool installed on a computer. Better
-solutions is to use mobile applications to keep a record of every expense easily at any
-location. In this project, the task is to develop an Android-based application that will
-be used to manage personal budget.
+
 # Tools Used
-• Programming Language : Android
+• Programming Language : Java
 #
 • User Interface : XML
 #
 • Database : Firebase
 #
 • IDE : Android Studio
+
 # Application
 Personal Budgeting Application is exactly how much money you have and where it’s
 being spent. A budget can help you find ways to save money and plan for the future.
@@ -34,4 +26,5 @@ to you. Following a budget or spending plan will also keep you out of debt or he
 work your way out of debt if you are currently in debt.
 Therefore, budgeting can be a way to improve your life. Debt management and other
 personal financial tasks are made easier if proper budgeting is in place.
-
+![Screenshot_20220720-041813](https://user-images.githubusercontent.com/69820143/179861461-f0e9204a-23b2-4445-8d99-ce0bc3697cea.jpg)
+![Screenshot_20220720-041808](https://user-images.githubusercontent.com/69820143/179861477-9f2abbc1-c212-4f3d-94bc-930858d234f9.jpg)
